@@ -20,7 +20,7 @@ void displayQuestion(char question[], char options[][50], char correctOption, in
     printf("\n");
 }
 
-int main() {
+
     int score = 0;
     printf("Welcome to the Quiz Game!\n\n");
 
